@@ -1,2 +1,2 @@
 # newrepo
-learning git
+learning git for fun
